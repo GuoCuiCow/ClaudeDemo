@@ -1,0 +1,14 @@
+# Claude Code
+.claude/
+*.md.bak
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
